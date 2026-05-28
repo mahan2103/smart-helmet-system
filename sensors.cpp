@@ -9,6 +9,6 @@ bool Sensors::isHelmetWorn() {
 bool Sensors::detectImpact() {
     return rand() % 2;  // simulate accident detection
 }
-
+                                                                                                                                 
 
 
